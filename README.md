@@ -1,7 +1,3 @@
-Sure, here is a revised version of your GitHub intro:
-
----
-
 👋 Hi, I’m Arbab Hussain, a graduate in Computer Science from Hamdard University Islamabad.
 
 💼 I am currently working as an Intern at Moveit.
